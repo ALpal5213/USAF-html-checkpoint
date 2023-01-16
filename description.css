@@ -1,0 +1,14 @@
+.comment {
+    display: flex;
+    flex-direction: column;
+    float: left;
+}
+
+.comment button {
+    background-color: #0000FF;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 4px;
+    margin-top: 20px;
+    width: fit-content;
+}

@@ -1,0 +1,29 @@
+/*CSS for login page*/
+
+.container-fluid {
+    width: 80%;
+    max-width: 500px;
+    margin-top: 50px;
+}
+
+.login-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.login-form h1 {
+    display: flex;
+    justify-content: center;
+}
+
+.form-item {
+    margin-bottom: 20px;
+}
+
+.login-form button {
+    background-color: #0000FF;
+    color: #FFFFFF;
+    width: fit-content;
+    border: none;
+    border-radius: 5px;
+}
